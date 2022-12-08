@@ -15,6 +15,8 @@ Use [Renam_eBot](https://t.me/Renam_eBot)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jithins7/RenameBot)
 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
+
 ### Hard Way (VPS)
 * This is just a demo of commands to use
 ```
